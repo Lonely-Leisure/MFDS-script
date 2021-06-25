@@ -1,5 +1,5 @@
 # Name: CentOS base configure on click execute
-# Author: Lattie
+# Author: Lonely Leisure
 # Build Time: 2021-06-21 20: 56
 # Last Modify Time: 2021-06-25 09:22
 #!/bin/bash
